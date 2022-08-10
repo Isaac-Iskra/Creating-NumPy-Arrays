@@ -5,4 +5,4 @@ This series of code looks at the use of NumPy as a way to represent data of the 
 
 An important feature of NumPy arrays is their ability to perform array math very easily and efficiently, without requiring you to write lots of code.
 
-The code and examples provided is from the book Python Machine Learning by Wei-Meng Lee
+The code and examples provided is from the book "Python Machine Learning" by Wei-Meng Lee
